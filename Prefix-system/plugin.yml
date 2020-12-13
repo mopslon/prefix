@@ -1,0 +1,9 @@
+name: prefi
+version: 1.0
+main: prefi.mopslon.main.Main
+author: Mopslon
+description: Its a Plugin.
+api-version: 1.13
+
+commands:
+   unred:
